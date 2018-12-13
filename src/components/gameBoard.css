@@ -1,0 +1,32 @@
+.gameboard{
+    text-align: center;
+    padding: 5rem;
+    width: 20%;
+    background-color:rgb(98, 33, 160);
+    margin: auto;
+    
+}
+.guessCount {
+    background-color: white;
+    padding: 2rem;
+    margin: 2rem;
+}
+.guessLog {
+    background-color: white;
+    padding: 2rem;
+    margin: 2rem;
+}
+.hotcold{
+    background-color: red;
+    margin: 2rem;
+    padding: 2rem;
+    color: white;
+}
+
+form{
+    padding: 2rem;
+}
+button{
+    padding: 1rem;
+    margin: 1rem;
+}

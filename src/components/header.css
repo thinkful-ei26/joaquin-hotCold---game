@@ -1,0 +1,21 @@
+.header {
+    background-color: orange;
+    width: 100%;
+    color: black;
+    text-align: center;
+    padding:2rem;
+}
+nav{
+    height: 5%;
+    display: inline;
+}
+li {
+    list-style: none;
+    display:inline-block;
+    padding-left: 10 rem;
+    color:black;
+}
+
+li.what {
+    margin-right: 50rem;
+}
